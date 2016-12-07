@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CallSikandar</string>
+    <string name="app_name">Blood Connect</string>
 
     <string name="create_new_account">CREATE NEW ACCOUNT</string>
     <string name="login">Already have an account ? Log in</string>

@@ -280,7 +280,7 @@ public class SignUpActivity extends AppCompatActivity {
                 // Otherwise, set the URL to null.
                 Uri.parse ("http://host/path"),
                 // TODO: Make sure this auto-generated app deep link URI is correct.
-                Uri.parse ("android-app://com.actiknow.callsikandar/http/host/path")
+                Uri.parse ("android-app://com.actiknow.bloodconnect/http/host/path")
         );
         AppIndex.AppIndexApi.start (client, viewAction);
     }
@@ -299,7 +299,7 @@ public class SignUpActivity extends AppCompatActivity {
                 // Otherwise, set the URL to null.
                 Uri.parse ("http://host/path"),
                 // TODO: Make sure this auto-generated app deep link URI is correct.
-                Uri.parse ("android-app://com.actiknow.callsikandar/http/host/path")
+                Uri.parse ("android-app://com.actiknow.bloodconnect/http/host/path")
         );
         AppIndex.AppIndexApi.end (client, viewAction);
         client.disconnect ();
